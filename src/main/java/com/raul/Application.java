@@ -38,7 +38,7 @@ public class Application {
 
     private ApiInfo SubscriptionapiInfo() {
         return new ApiInfoBuilder()
-                .title(" MicroService API with Swagger")
+                .title(" MicroService with Swagger")
                 .description("Create your Subscription here")
                 .termsOfServiceUrl("http://raul.com")
                 .contact("Raul Lavin")
