@@ -23,7 +23,7 @@ public class SubscriptionController {
     private SubscriptionRepository subscriptionRepository;
 
     /**
-     * Save a new subscription  to the database and auto-generates an Id
+     * Save a new subscription to the database and auto-generates an Id
      * @param aSubscription
      * @return
      */
